@@ -86,4 +86,9 @@ Add screenshot capture on test failure for reporting.
 Extend to cross-browser testing (Firefox, Edge).
 
 
+<img width="1337" height="837" alt="user configuration" src="https://github.com/user-attachments/assets/6a9710f1-c527-49b9-bad4-f8f9d79ca9dc" />
+<img width="1447" height="843" alt="open account" src="https://github.com/user-attachments/assets/142a9dbf-36ab-43be-8b8c-425b50716da4" />
+<img width="1357" height="852" alt="Login" src="https://github.com/user-attachments/assets/0cbfbf7c-d467-4ee5-b6ca-1202153a7bfa" />
+<img width="1217" height="828" alt="homepage" src="https://github.com/user-attachments/assets/f1b81be0-3227-4216-bf64-d5d81c358dd7" />
+<img width="1441" height="847" alt="browser setup" src="https://github.com/user-attachments/assets/aaa9120b-2636-4232-8091-b049fcf717ce" />
 
