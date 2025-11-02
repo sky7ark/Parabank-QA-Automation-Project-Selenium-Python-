@@ -85,13 +85,5 @@ Add screenshot capture on test failure for reporting.
 
 Extend to cross-browser testing (Firefox, Edge).
 
-References
 
-Selenium Documentation
-
-Pytest Documentation
-
-Parabank Demo Site
-
-- Debugging with prints and waits
 
