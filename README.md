@@ -26,23 +26,37 @@ Key Skills Demonstrated:
 - Headless Chrome support
 
 Configuration
+
 Create and activate a virtual environment:
+
 python -m venv .venv
+
 Windows: .\.venv\Scripts\activate
+
 macOS / Linux: source .venv/bin/activate
 
+
 Install dependencies
+
 pip install -r requirements.txt
 
 Configure test credentials
+
 Edit utils/config.py and set:
+
 TEST_USERNAME = "skylark" #python code -- mine credential demo
+
 TEST_PASSWORD = "Pera.sr.pass.007" #python code -- mine credential demo
+
 HEADLESS = False  # True for headless mode # python code
+
+
 You can manually register a user on Parabank
  if default credentials don’t work.
 
+
 Run in normal mode
+
 pytest -q
 
 ------------------------------------------
@@ -50,13 +64,9 @@ pytest -q
 How It Works
 
 Page Object Model separates locators and page actions from tests.
-
 Browser Setup: utils/browser_setup.py uses webdriver-manager to automatically install the correct ChromeDriver.
-
 Test Flow:
-
 LoginPage logs in.
-
 HomePage navigates to “Open New Account.”
 
 OpenAccountPage opens a new account and validates the success message.
